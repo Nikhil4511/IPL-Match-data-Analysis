@@ -50,5 +50,6 @@ The project uses the following datasets:
 - NumPy
 - Matplotlib / Seaborn
 - Power BI
-- CSV Data Files
+- CSV Data Files<img width="1235" height="677" alt="Screenshot 2026-01-16 002933" src="https://github.com/user-attachments/assets/b8cc9235-5d79-40ea-9e99-47d634de9c8c" />
+
 
